@@ -1,0 +1,15 @@
+{
+  "name": "app-consola",
+  "version": "1.0.0",
+  "description": "Crea las tablas de multiplicar y las guarda en un archivo txt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhovanny Martínez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.0"
+  }
+}
